@@ -463,7 +463,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 .section-header .section-title {
   font-size: 32px;
-  color: #111;
+  color: #11;
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
@@ -473,7 +473,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-header .section-description {
   text-align: center;
   padding-bottom: 40px;
-  color: #999;
+  color: #FFFFFF;
 }
 
 /* About Us Section
